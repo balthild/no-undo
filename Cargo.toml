@@ -2,5 +2,8 @@
 name = "no-undo"
 version = "0.1.0"
 edition = "2021"
+description = "Disable undo/redo shortcut keys (Ctrl+Z/Y) for Windows Explorer."
+license = "GPL-3.0-or-later"
+repository = "https://github.com/balthild/no-undo"
 
 [dependencies]
